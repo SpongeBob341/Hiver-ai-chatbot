@@ -1,0 +1,6 @@
+escalation_type,thread_count,pct_of_threads
+bsod_crash,244,5.47
+data_loss,34,0.76
+payment_billing,123,2.76
+account_lockout,78,1.75
+any_escalation,470,10.54
